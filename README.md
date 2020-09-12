@@ -38,7 +38,7 @@ There is a test.js file built into the repo that you can run in the same way as 
 
 Feel free to contact me at either my email or message me on GitHub using the info below.
 
-![KelalArrzenai(https://github.com/KelalArrzenai)
+![KelalArrzenai](https://github.com/KelalArrzenai)
 
 kelalarrzenai@gmail.com
 
